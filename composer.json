@@ -1,7 +1,7 @@
 {
-  "name": "kaadon/baseCurd",
+  "name": "kaadon/basecurd",
   "type": "library",
-  "description": "kaadon capcha for PHP",
+  "description": "kaadon basecurd for PHP",
   "keywords": [
     "baseCurd",
     "kaadon"
