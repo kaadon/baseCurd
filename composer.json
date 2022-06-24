@@ -20,7 +20,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Kaadon\\CapCha\\": "src"
+      "Kaadon\\baseCurd\\": "src"
     },
     "files": []
   },
